@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2? family = Roboto & display = swap');
+
+
+
+
+
+
+
+
+
+img {
+    width: 100%;
+    height: 450px;
+    filter: brightness(70%)
+}
+
+
+
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+
+
+.webpage {
+    text-align: center;
+    position: absolute;
+    display: block;
+    width: 100%;
+    top: 100px;
+}
+
+
+#buton {
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    height: 40px;
+    width: 150px;
+    display: inline-block;
+    padding-top: 15px;
+    border: 1px solid grey;
+
+}
+
+.webpage2 {
+    background-color: rgb(184, 180, 180);
+    text-align: center;
+    top: 450px;
+    height: 150px;
+    padding-top: 45px;
+}
+
+
+
+
+#section-b {
+    color: black;
+    display: flex;
+    background-color: #333;
+    padding: 30px;
+}
+
+
+
+
+.heather {
+    min-height: 450px;
+}
+
+
+.webpage3 {
+    background-color: rgb(184, 180, 180);
+    text-align: center;
+    top: 450px;
+    height: 150px;
+    padding-top: 45px;
+}
+
+
+.webpage4 {
+    background-color: cyan;
+    text-align: center;
+    top: 450px;
+    height: 350px;
+    padding-top: 45px;
+    
+}
+
+h1,
+p {color: black;}
+
+b {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
